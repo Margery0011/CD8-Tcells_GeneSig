@@ -1,7 +1,7 @@
 # CD8-Tcells_GeneSig
 From "Pan-Cancer T cell atalas links a cellular stress response state to immunotherapy resistance" [article](https://www.nature.com/articles/s41591-023-02371-y#MOESM3)
 
-Excel File[]()
+[Excel: Curated gene signatures used to characterize CD8 T cells](https://github.com/Margery0011/CD8-Tcells_GeneSig/blob/main/CD8%2BTcell_Gene_Sigs.xlsx)
 ### Naive
 
 - Markers: `IL7R`, `CCR7`, `SELL`
